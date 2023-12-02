@@ -49,5 +49,20 @@ namespace TierApp.Controllers
                 return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
             }
         }
+
+        [HttpPost]
+        [Route("api/catagory/create")]
+        public HttpResponseMessage Create(CatagoryDto c)
+        {
+            try
+            {
+                CatagoryService.Create(c);
+                return Request.CreateResponse(HttpStatusCode.OK, new { msg = "Created" });
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
     }
 }

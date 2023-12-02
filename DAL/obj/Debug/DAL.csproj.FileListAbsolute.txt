@@ -12,3 +12,17 @@ C:\Contents\Academic Contents\Sem 10\.Net-3-layer-archi\DAL\obj\Debug\DAL.dll
 C:\Contents\Academic Contents\Sem 10\.Net-3-layer-archi\DAL\obj\Debug\DAL.pdb
 C:\Contents\Academic Contents\Sem 10\.Net-3-layer-archi\DAL\obj\Debug\DAL.Migrations.DATBASEINITWITHTALCONTEXTADDED.resources
 C:\Contents\Academic Contents\Sem 10\.Net-3-layer-archi\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\DAL.dll.config
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\DAL.dll
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\DAL.pdb
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\EntityFramework.dll
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\EntityFramework.xml
+D:\Contents\Projects\.Net-3-layer-archi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.Migrations.DATBASEINITWITHTALCONTEXTADDED.resources
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.dll
+D:\Contents\Projects\.Net-3-layer-archi\DAL\obj\Debug\DAL.pdb
